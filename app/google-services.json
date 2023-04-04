@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806575435942",
+    "project_id": "chatapp-f4f9c",
+    "storage_bucket": "chatapp-f4f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806575435942:android:a865946ed3a329ff9f8467",
+        "android_client_info": {
+          "package_name": "com.islamzada.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806575435942-ir45c6j2eakt6to6n17guh8daenbeuim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrBGuimZbIvIesxDmYhGI1xond3LHpDRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806575435942-ir45c6j2eakt6to6n17guh8daenbeuim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

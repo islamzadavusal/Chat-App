@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ABB Task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_in_text">Kayıt olmak</string>
+    <string name="already_have_an_account_text">Zaten hesabınız var mı?</string>
+    <string name="password_text">Şifre</string>
+    <string name="email_text">E-posta</string>
+    <string name="name_text">İsim</string>
+    <string name="create_a_new_account_text">Yeni bir hesap oluştur</string>
+    <string name="welcome_text">Hoş geldin!</string>
+    <string name="sign_up_text">Üye olmak</string>
+    <string name="create_new_account_text">Yeni hesap oluştur?</string>
+    <string name="welcome_back_text">Tekrar hoşgeldiniz!</string>
+    <string name="login_title_text"><![CDATA[Kullanıcı adı & şifre ile giriş yapın]]></string>
+    <string name="log_out">Çıkış Yap</string>
+    <string name="type_message">Bir mesaj yazın</string>
+    <string name="remember">Beni Hatırla</string>
+</resources>
