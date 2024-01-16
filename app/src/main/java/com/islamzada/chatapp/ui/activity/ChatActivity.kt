@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.*
 import com.islamzada.chatapp.R
-import com.islamzada.chatapp.`class`.Message
+import com.islamzada.chatapp.entity.Message
 import com.islamzada.chatapp.ui.adapter.MessageAdapter
 
 class ChatActivity : AppCompatActivity() {

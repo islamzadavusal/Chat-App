@@ -11,9 +11,8 @@ import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.*
 import com.islamzada.chatapp.R
-import com.islamzada.chatapp.`class`.User
+import com.islamzada.chatapp.entity.User
 import com.islamzada.chatapp.ui.adapter.UserAdapter
-import com.islamzada.chatapp.ui.fragments.SignInFragment
 
 class MainActivity : AppCompatActivity() {
 

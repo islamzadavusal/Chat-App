@@ -13,7 +13,7 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 import com.islamzada.chatapp.R
-import com.islamzada.chatapp.`class`.User
+import com.islamzada.chatapp.entity.User
 import com.islamzada.chatapp.databinding.FragmentSignUpBinding
 import com.islamzada.chatapp.ui.activity.MainActivity
 

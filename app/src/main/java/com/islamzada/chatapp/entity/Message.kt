@@ -1,4 +1,4 @@
-package com.islamzada.chatapp.`class`
+package com.islamzada.chatapp.entity
 
 class Message {
     var message: String? = null

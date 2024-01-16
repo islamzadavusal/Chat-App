@@ -1,4 +1,4 @@
-package com.islamzada.chatapp.`class`
+package com.islamzada.chatapp.entity
 
 class User {
     var name: String? = null

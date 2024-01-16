@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.islamzada.chatapp.R
-import com.islamzada.chatapp.`class`.User
+import com.islamzada.chatapp.entity.User
 import com.islamzada.chatapp.ui.activity.ChatActivity
 
 class UserAdapter(val context: Context, val userList: ArrayList<User>)
